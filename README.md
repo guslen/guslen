@@ -1,6 +1,6 @@
 # **GUSTAV LENNART VOIGT**
-**Backend Developer | Cloud & Microservices Specialist | Event-Driven Architect**  
-📍 Berlin, Germany | 📧 [Your Email] | 📞 [Your Phone] | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/gustav-lennart-voigt/)  
+**Backend Developer | Cloud & Microservices**  
+📍 Berlin, Germany | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/gustav-lennart-voigt/)  
 
 ---
 
